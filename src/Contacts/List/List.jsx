@@ -98,7 +98,6 @@ const List = ({ todos, setTodos }) => {
 
         <button className="clear-completed">Clear completed</button>
       </footer>
-      {/* <p>Totaş Contacts ({filtered.length})</p> */}
     </div>
   );
 };
